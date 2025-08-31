@@ -53,6 +53,4 @@ pred price = 145000, actual price = 142000
 ```
 
 ---
-
-👉 Do you also want me to make a **short requirements.txt file** for you automatically from the notebook?
 ```
